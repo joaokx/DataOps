@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "64d5349884ad9d8dcfd08132"
+  },
+  "Montadora": "Chevrolet",
+  "País": "EUA"
+},
+{
+  "_id": {
+    "$oid": "64d5349884ad9d8dcfd08133"
+  },
+  "Montadora": "Volkswagen",
+  "País": "Alemanha"
+},
+{
+  "_id": {
+    "$oid": "64d5349884ad9d8dcfd08134"
+  },
+  "Montadora": "Renault",
+  "País": "França"
+},
+{
+  "_id": {
+    "$oid": "64d5349884ad9d8dcfd08135"
+  },
+  "Montadora": "Ford",
+  "País": "EUA"
+},
+{
+  "_id": {
+    "$oid": "64d5349884ad9d8dcfd08136"
+  },
+  "Montadora": "Honda",
+  "País": "Japão"
+},
+{
+  "_id": {
+    "$oid": "64d534c7466bdd7a3c3182c2"
+  },
+  "Montadora": "Chevrolet",
+  "País": "EUA"
+},
+{
+  "_id": {
+    "$oid": "64d534c7466bdd7a3c3182c3"
+  },
+  "Montadora": "Volkswagen",
+  "País": "Alemanha"
+},
+{
+  "_id": {
+    "$oid": "64d534c7466bdd7a3c3182c4"
+  },
+  "Montadora": "Renault",
+  "País": "França"
+},
+{
+  "_id": {
+    "$oid": "64d534c7466bdd7a3c3182c5"
+  },
+  "Montadora": "Ford",
+  "País": "EUA"
+},
+{
+  "_id": {
+    "$oid": "64d534c7466bdd7a3c3182c6"
+  },
+  "Montadora": "Honda",
+  "País": "Japão"
+}]

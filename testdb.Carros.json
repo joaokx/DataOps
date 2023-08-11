@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "64d5349884ad9d8dcfd0812d"
+  },
+  "Carro": "Onix",
+  "Cor": "Prata",
+  "Montadora": "Chevrolet"
+},
+{
+  "_id": {
+    "$oid": "64d5349884ad9d8dcfd0812e"
+  },
+  "Carro": "Polo",
+  "Cor": "Branco",
+  "Montadora": "Volkswagen"
+},
+{
+  "_id": {
+    "$oid": "64d5349884ad9d8dcfd0812f"
+  },
+  "Carro": "Fiesta",
+  "Cor": "Prata",
+  "Montadora": "Renault"
+},
+{
+  "_id": {
+    "$oid": "64d5349884ad9d8dcfd08130"
+  },
+  "Carro": "City",
+  "Cor": "Vermelho",
+  "Montadora": "Ford"
+},
+{
+  "_id": {
+    "$oid": "64d5349884ad9d8dcfd08131"
+  },
+  "Carro": "Sandero",
+  "Cor": "Preto",
+  "Montadora": "Honda"
+},
+{
+  "_id": {
+    "$oid": "64d534c7466bdd7a3c3182bd"
+  },
+  "Carro": "Onix",
+  "Cor": "Prata",
+  "Montadora": "Chevrolet"
+},
+{
+  "_id": {
+    "$oid": "64d534c7466bdd7a3c3182be"
+  },
+  "Carro": "Polo",
+  "Cor": "Branco",
+  "Montadora": "Volkswagen"
+},
+{
+  "_id": {
+    "$oid": "64d534c7466bdd7a3c3182bf"
+  },
+  "Carro": "Fiesta",
+  "Cor": "Prata",
+  "Montadora": "Renault"
+},
+{
+  "_id": {
+    "$oid": "64d534c7466bdd7a3c3182c0"
+  },
+  "Carro": "City",
+  "Cor": "Vermelho",
+  "Montadora": "Ford"
+},
+{
+  "_id": {
+    "$oid": "64d534c7466bdd7a3c3182c1"
+  },
+  "Carro": "Sandero",
+  "Cor": "Preto",
+  "Montadora": "Honda"
+}]
